@@ -23,7 +23,7 @@ namespace WepAPI_Core.Models
     {
         public DbSet<WepAPI_Core.Models.Book> Books { get; set; }
         public DbSet<WepAPI_Core.Models.Author> Authors { get; set; }
-
+        public DbSet<WepAPI_Core.Models.Genre> Genres { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {

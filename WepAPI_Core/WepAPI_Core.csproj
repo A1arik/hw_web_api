@@ -223,6 +223,10 @@
     <Compile Include="Startup.cs" />
     <Compile Include="Models\Author.cs" />
     <Compile Include="Controllers\AuthorsController.cs" />
+    <Compile Include="Controllers\api\AuthorsApiController.cs" />
+    <Compile Include="Models\Genre.cs" />
+    <Compile Include="Controllers\api\BooksApiController.cs" />
+    <Compile Include="Controllers\api\GenresApiController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
@@ -282,6 +286,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Controllers\api\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
