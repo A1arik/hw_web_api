@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{829E8C0E-AB65-4875-A05B-A3E636844248}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WepAPI_Core/Controllers/AuthorsController.cs">
+    <Files>
+      <File FileName="WepAPI_Core/Controllers/AuthorsController.cs" Line="111" Column="37" />
+      <File FileName="WepAPI_Core/Models/Author.cs" Line="1" Column="1" />
+      <File FileName="WepAPI_Core/Controllers/BooksController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WepAPI_Core" expanded="True">
+            <Node name="WepAPI_Core" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthorsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WepAPI__Core PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
